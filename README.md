@@ -18,8 +18,7 @@ Mobil taraf **Jetpack Compose** kullanılarak modern ve kullanıcı dostu bir ar
 ---
 
 ## 🖼️ Ekran Görüntüleri
-<img src="screenshots/ai1.PNG" width="300">
-<img src="screenshots/ai2.PNG" width="300"> 
+<img src="https://raw.githubusercontent.com/abdulkadirekrem/MoodAnalyzerApp/main/screenshots/ai1.PNG" alt="Ana ekran görüntüsü" width="300" style="display:inline-block; margin-right: 10px;"> <img src="https://raw.githubusercontent.com/abdulkadirekrem/MoodAnalyzerApp/main/screenshots/ai2.PNG" alt="Analiz ekranı görüntüsü" width="300" style="display:inline-block;"> 
 
 ---
 
