@@ -18,8 +18,8 @@ Mobil taraf **Jetpack Compose** kullanılarak modern ve kullanıcı dostu bir ar
 ---
 
 ## 🖼️ Ekran Görüntüleri
-<img src="screenshots/ai1.PNG.pgit add README.md screenshots/ng" width="300"> <img src="screenshots/screen2.png" width="300">
-<img src="screenshots/ai2.PNG.png" width="300"> <img src="screenshots/screen2.png" width="300">
+<img src="screenshots/ai1.PNG" add README.md screenshots/ng" width="300"> <img src="screenshots/screen2.png" width="300">
+<img src="screenshots/ai2.PNG" width="300"> <img src="screenshots/screen2.png" width="300">
 
 ---
 
